@@ -7,6 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4741939A1DA0F9900036DEF8 /* agai.gif in Resources */ = {isa = PBXBuildFile; fileRef = 474193991DA0F9900036DEF8 /* agai.gif */; };
+		4741939C1DA0FA670036DEF8 /* again.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4741939B1DA0FA670036DEF8 /* again.gif */; };
+		474AE8F51D03C40C00A34B36 /* mo.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE8F41D03C40C00A34B36 /* mo.png */; };
+		474AE8F71D03F2A600A34B36 /* punch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 474AE8F61D03F2A600A34B36 /* punch.mp3 */; };
+		474AE8F91D040C1D00A34B36 /* yama.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE8F81D040C1D00A34B36 /* yama.png */; };
+		474AE8FC1D040FCD00A34B36 /* haku2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 474AE8FA1D040FCD00A34B36 /* haku2.mp3 */; };
+		474AE8FD1D040FCD00A34B36 /* haku.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 474AE8FB1D040FCD00A34B36 /* haku.mp3 */; };
+		474AE9101D0415C000A34B36 /* yuuu-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9011D0415C000A34B36 /* yuuu-128.png */; };
+		474AE9111D0415C000A34B36 /* yuuu-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9021D0415C000A34B36 /* yuuu-256.png */; };
+		474AE9121D0415C000A34B36 /* yuuu-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9031D0415C000A34B36 /* yuuu-29@2x.png */; };
+		474AE9131D0415C000A34B36 /* yuuu-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9041D0415C000A34B36 /* yuuu-29@3x.png */; };
+		474AE9141D0415C000A34B36 /* yuuu-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9051D0415C000A34B36 /* yuuu-32.png */; };
+		474AE9151D0415C000A34B36 /* yuuu-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9061D0415C000A34B36 /* yuuu-40.png */; };
+		474AE9161D0415C000A34B36 /* yuuu-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9071D0415C000A34B36 /* yuuu-40@2x.png */; };
+		474AE9171D0415C000A34B36 /* yuuu-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9081D0415C000A34B36 /* yuuu-40@3x.png */; };
+		474AE9181D0415C000A34B36 /* yuuu-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE9091D0415C000A34B36 /* yuuu-512.png */; };
+		474AE9191D0415C000A34B36 /* yuuu-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90A1D0415C000A34B36 /* yuuu-60@2x.png */; };
+		474AE91A1D0415C000A34B36 /* yuuu-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90B1D0415C000A34B36 /* yuuu-60@3x.png */; };
+		474AE91B1D0415C000A34B36 /* yuuu-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90C1D0415C000A34B36 /* yuuu-64.png */; };
+		474AE91C1D0415C000A34B36 /* yuuu-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90D1D0415C000A34B36 /* yuuu-76.png */; };
+		474AE91D1D0415C000A34B36 /* yuuu-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90E1D0415C000A34B36 /* yuuu-76@2x.png */; };
+		474AE91E1D0415C000A34B36 /* yuuu-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 474AE90F1D0415C000A34B36 /* yuuu-83.5@2x.png */; };
+		47661E321CF1964F0048AC68 /* FireViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47661E311CF1964F0048AC68 /* FireViewController.swift */; };
+		4769DFBA1CF175EC005BB9D4 /* btt07.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4769DFB91CF175EC005BB9D4 /* btt07.gif */; };
+		478E33D31D1637AA00015F5B /* btt.png in Resources */ = {isa = PBXBuildFile; fileRef = 478E33D21D1637AA00015F5B /* btt.png */; };
+		478E33D71D163BBD00015F5B /* bbb.png in Resources */ = {isa = PBXBuildFile; fileRef = 478E33D61D163BBD00015F5B /* bbb.png */; };
+		478E33DB1D163D6700015F5B /* tree.png in Resources */ = {isa = PBXBuildFile; fileRef = 478E33DA1D163D6700015F5B /* tree.png */; };
+		478E33DD1D163EAB00015F5B /* ri.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 478E33DC1D163EAB00015F5B /* ri.jpg */; };
+		478E33DF1D1642BF00015F5B /* modoru.gif in Resources */ = {isa = PBXBuildFile; fileRef = 478E33DE1D1642BF00015F5B /* modoru.gif */; };
+		478E33E31D165CB900015F5B /* uiouio.gif in Resources */ = {isa = PBXBuildFile; fileRef = 478E33E21D165CB900015F5B /* uiouio.gif */; };
+		478E33E51D165F6500015F5B /* uiui.gif in Resources */ = {isa = PBXBuildFile; fileRef = 478E33E41D165F6500015F5B /* uiui.gif */; };
+		478E33E71D166B6900015F5B /* CocoaaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478E33E61D166B6900015F5B /* CocoaaViewController.swift */; };
+		47CAC5E41E47140E0000D59E /* yama2.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5E31E47140E0000D59E /* yama2.png */; };
+		47CAC5E61E4714150000D59E /* yama5.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5E51E4714150000D59E /* yama5.png */; };
+		47CAC5E81E4714200000D59E /* tuki.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5E71E4714200000D59E /* tuki.png */; };
+		47CAC5EA1E47142E0000D59E /* kin.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5E91E47142E0000D59E /* kin.png */; };
+		47CAC5EC1E4714390000D59E /* yozora2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5EB1E4714390000D59E /* yozora2.jpg */; };
+		47CAC5EE1E4714430000D59E /* taiyou1.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5ED1E4714430000D59E /* taiyou1.png */; };
+		47CAC5F01E4714850000D59E /* hiru2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5EF1E4714850000D59E /* hiru2.jpg */; };
+		47CAC5F41E4714D50000D59E /* yoru.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CAC5F31E4714D50000D59E /* yoru.png */; };
+		47D367F21D8E3AF0009299C7 /* back1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 47D367F11D8E3AF0009299C7 /* back1.gif */; };
+		47D367F41D8E3D07009299C7 /* back2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 47D367F31D8E3D07009299C7 /* back2.gif */; };
+		47D367F61D8E4181009299C7 /* SeteiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D367F51D8E4181009299C7 /* SeteiViewController.swift */; };
+		47D367F81D8E6368009299C7 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D367F71D8E6368009299C7 /* FirstViewController.swift */; };
+		47D367FA1D8E65D6009299C7 /* wakuwaku.png in Resources */ = {isa = PBXBuildFile; fileRef = 47D367F91D8E65D6009299C7 /* wakuwaku.png */; };
+		47D367FC1D8E65E1009299C7 /* toro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47D367FB1D8E65E1009299C7 /* toro.jpg */; };
+		47D367FE1D8E65E6009299C7 /* ranking.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47D367FD1D8E65E6009299C7 /* ranking.jpg */; };
+		47D368001D8E7B0E009299C7 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D367FF1D8E7B0E009299C7 /* music.mp3 */; };
+		47D368021D8E819B009299C7 /* music2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D368011D8E819B009299C7 /* music2.mp3 */; };
+		47D368041D8E82D1009299C7 /* music3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 47D368031D8E82D1009299C7 /* music3.mp3 */; };
+		47E388841D28FA2900F10619 /* bbbb.png in Resources */ = {isa = PBXBuildFile; fileRef = 47E388831D28FA2900F10619 /* bbbb.png */; };
+		47E388861D29069B00F10619 /* waku.png in Resources */ = {isa = PBXBuildFile; fileRef = 47E388851D29069B00F10619 /* waku.png */; };
 		47F065C21CDF01110017486E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47F065C11CDF01110017486E /* AppDelegate.swift */; };
 		47F065C41CDF01110017486E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47F065C31CDF01110017486E /* ViewController.swift */; };
 		47F065C71CDF01110017486E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47F065C51CDF01110017486E /* Main.storyboard */; };
@@ -34,6 +86,58 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		474193991DA0F9900036DEF8 /* agai.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = agai.gif; path = ../../../Documents/agai.gif; sourceTree = "<group>"; };
+		4741939B1DA0FA670036DEF8 /* again.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = again.gif; path = ../../../Documents/again.gif; sourceTree = "<group>"; };
+		474AE8F41D03C40C00A34B36 /* mo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mo.png; sourceTree = "<group>"; };
+		474AE8F61D03F2A600A34B36 /* punch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = punch.mp3; sourceTree = "<group>"; };
+		474AE8F81D040C1D00A34B36 /* yama.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yama.png; sourceTree = "<group>"; };
+		474AE8FA1D040FCD00A34B36 /* haku2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = haku2.mp3; sourceTree = "<group>"; };
+		474AE8FB1D040FCD00A34B36 /* haku.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = haku.mp3; sourceTree = "<group>"; };
+		474AE9011D0415C000A34B36 /* yuuu-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-128.png"; sourceTree = "<group>"; };
+		474AE9021D0415C000A34B36 /* yuuu-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-256.png"; sourceTree = "<group>"; };
+		474AE9031D0415C000A34B36 /* yuuu-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-29@2x.png"; sourceTree = "<group>"; };
+		474AE9041D0415C000A34B36 /* yuuu-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-29@3x.png"; sourceTree = "<group>"; };
+		474AE9051D0415C000A34B36 /* yuuu-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-32.png"; sourceTree = "<group>"; };
+		474AE9061D0415C000A34B36 /* yuuu-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-40.png"; sourceTree = "<group>"; };
+		474AE9071D0415C000A34B36 /* yuuu-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-40@2x.png"; sourceTree = "<group>"; };
+		474AE9081D0415C000A34B36 /* yuuu-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-40@3x.png"; sourceTree = "<group>"; };
+		474AE9091D0415C000A34B36 /* yuuu-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-512.png"; sourceTree = "<group>"; };
+		474AE90A1D0415C000A34B36 /* yuuu-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-60@2x.png"; sourceTree = "<group>"; };
+		474AE90B1D0415C000A34B36 /* yuuu-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-60@3x.png"; sourceTree = "<group>"; };
+		474AE90C1D0415C000A34B36 /* yuuu-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-64.png"; sourceTree = "<group>"; };
+		474AE90D1D0415C000A34B36 /* yuuu-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-76.png"; sourceTree = "<group>"; };
+		474AE90E1D0415C000A34B36 /* yuuu-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-76@2x.png"; sourceTree = "<group>"; };
+		474AE90F1D0415C000A34B36 /* yuuu-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yuuu-83.5@2x.png"; sourceTree = "<group>"; };
+		47661E311CF1964F0048AC68 /* FireViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FireViewController.swift; path = ../FireViewController.swift; sourceTree = "<group>"; };
+		4769DFB91CF175EC005BB9D4 /* btt07.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = btt07.gif; sourceTree = "<group>"; };
+		478E33D21D1637AA00015F5B /* btt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btt.png; sourceTree = "<group>"; };
+		478E33D61D163BBD00015F5B /* bbb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bbb.png; sourceTree = "<group>"; };
+		478E33DA1D163D6700015F5B /* tree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tree.png; sourceTree = "<group>"; };
+		478E33DC1D163EAB00015F5B /* ri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ri.jpg; sourceTree = "<group>"; };
+		478E33DE1D1642BF00015F5B /* modoru.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = modoru.gif; sourceTree = "<group>"; };
+		478E33E21D165CB900015F5B /* uiouio.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = uiouio.gif; sourceTree = "<group>"; };
+		478E33E41D165F6500015F5B /* uiui.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = uiui.gif; sourceTree = "<group>"; };
+		478E33E61D166B6900015F5B /* CocoaaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocoaaViewController.swift; sourceTree = "<group>"; };
+		47CAC5E31E47140E0000D59E /* yama2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yama2.png; path = "../../その他素材/yama2.png"; sourceTree = "<group>"; };
+		47CAC5E51E4714150000D59E /* yama5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yama5.png; path = "../../その他素材/yama5.png"; sourceTree = "<group>"; };
+		47CAC5E71E4714200000D59E /* tuki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tuki.png; path = "../../その他素材/tuki.png"; sourceTree = "<group>"; };
+		47CAC5E91E47142E0000D59E /* kin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kin.png; path = "../../その他素材/kin.png"; sourceTree = "<group>"; };
+		47CAC5EB1E4714390000D59E /* yozora2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = yozora2.jpg; path = "../../その他素材/yozora2.jpg"; sourceTree = "<group>"; };
+		47CAC5ED1E4714430000D59E /* taiyou1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taiyou1.png; path = "../../その他素材/taiyou1.png"; sourceTree = "<group>"; };
+		47CAC5EF1E4714850000D59E /* hiru2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hiru2.jpg; path = "../../その他素材/hiru2.jpg"; sourceTree = "<group>"; };
+		47CAC5F31E4714D50000D59E /* yoru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yoru.png; path = "../../その他素材/yoru.png"; sourceTree = "<group>"; };
+		47D367F11D8E3AF0009299C7 /* back1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = back1.gif; path = ../../../Documents/back1.gif; sourceTree = "<group>"; };
+		47D367F31D8E3D07009299C7 /* back2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = back2.gif; path = ../../../Documents/back2.gif; sourceTree = "<group>"; };
+		47D367F51D8E4181009299C7 /* SeteiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeteiViewController.swift; sourceTree = "<group>"; };
+		47D367F71D8E6368009299C7 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		47D367F91D8E65D6009299C7 /* wakuwaku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wakuwaku.png; sourceTree = "<group>"; };
+		47D367FB1D8E65E1009299C7 /* toro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = toro.jpg; sourceTree = "<group>"; };
+		47D367FD1D8E65E6009299C7 /* ranking.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ranking.jpg; sourceTree = "<group>"; };
+		47D367FF1D8E7B0E009299C7 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music.mp3; path = ../../../Downloads/music.mp3; sourceTree = "<group>"; };
+		47D368011D8E819B009299C7 /* music2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music2.mp3; path = ../../../Downloads/music2.mp3; sourceTree = "<group>"; };
+		47D368031D8E82D1009299C7 /* music3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = music3.mp3; path = "../../../Downloads/Onmtp-Ding02-mp3/music3.mp3"; sourceTree = "<group>"; };
+		47E388831D28FA2900F10619 /* bbbb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bbbb.png; sourceTree = "<group>"; };
+		47E388851D29069B00F10619 /* waku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = waku.png; sourceTree = "<group>"; };
 		47F065BE1CDF01110017486E /* yuu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yuu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47F065C11CDF01110017486E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47F065C31CDF01110017486E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,9 +178,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		474AE9001D0415C000A34B36 /* アイコン */ = {
+			isa = PBXGroup;
+			children = (
+				474AE9011D0415C000A34B36 /* yuuu-128.png */,
+				474AE9021D0415C000A34B36 /* yuuu-256.png */,
+				474AE9031D0415C000A34B36 /* yuuu-29@2x.png */,
+				474AE9041D0415C000A34B36 /* yuuu-29@3x.png */,
+				474AE9051D0415C000A34B36 /* yuuu-32.png */,
+				474AE9061D0415C000A34B36 /* yuuu-40.png */,
+				474AE9071D0415C000A34B36 /* yuuu-40@2x.png */,
+				474AE9081D0415C000A34B36 /* yuuu-40@3x.png */,
+				474AE9091D0415C000A34B36 /* yuuu-512.png */,
+				474AE90A1D0415C000A34B36 /* yuuu-60@2x.png */,
+				474AE90B1D0415C000A34B36 /* yuuu-60@3x.png */,
+				474AE90C1D0415C000A34B36 /* yuuu-64.png */,
+				474AE90D1D0415C000A34B36 /* yuuu-76.png */,
+				474AE90E1D0415C000A34B36 /* yuuu-76@2x.png */,
+				474AE90F1D0415C000A34B36 /* yuuu-83.5@2x.png */,
+			);
+			path = "アイコン";
+			sourceTree = "<group>";
+		};
+		47E388871D2906A200F10619 /* photo */ = {
+			isa = PBXGroup;
+			children = (
+				47D367FF1D8E7B0E009299C7 /* music.mp3 */,
+				47D368011D8E819B009299C7 /* music2.mp3 */,
+				47D368031D8E82D1009299C7 /* music3.mp3 */,
+				47D367FD1D8E65E6009299C7 /* ranking.jpg */,
+				47D367FB1D8E65E1009299C7 /* toro.jpg */,
+				47D367F91D8E65D6009299C7 /* wakuwaku.png */,
+				47D367F31D8E3D07009299C7 /* back2.gif */,
+				47CAC5F31E4714D50000D59E /* yoru.png */,
+				47D367F11D8E3AF0009299C7 /* back1.gif */,
+				47E388831D28FA2900F10619 /* bbbb.png */,
+				478E33DE1D1642BF00015F5B /* modoru.gif */,
+				478E33D21D1637AA00015F5B /* btt.png */,
+				474193991DA0F9900036DEF8 /* agai.gif */,
+				47CAC5E31E47140E0000D59E /* yama2.png */,
+				478E33E41D165F6500015F5B /* uiui.gif */,
+				478E33D61D163BBD00015F5B /* bbb.png */,
+				474AE8F81D040C1D00A34B36 /* yama.png */,
+				47CAC5E51E4714150000D59E /* yama5.png */,
+				47CAC5EF1E4714850000D59E /* hiru2.jpg */,
+				47CAC5EB1E4714390000D59E /* yozora2.jpg */,
+				47CAC5E71E4714200000D59E /* tuki.png */,
+				47CAC5E91E47142E0000D59E /* kin.png */,
+				47CAC5ED1E4714430000D59E /* taiyou1.png */,
+				478E33E21D165CB900015F5B /* uiouio.gif */,
+				474AE8F41D03C40C00A34B36 /* mo.png */,
+				4741939B1DA0FA670036DEF8 /* again.gif */,
+				478E33DA1D163D6700015F5B /* tree.png */,
+				4769DFB91CF175EC005BB9D4 /* btt07.gif */,
+				478E33DC1D163EAB00015F5B /* ri.jpg */,
+				474AE8FA1D040FCD00A34B36 /* haku2.mp3 */,
+				474AE8FB1D040FCD00A34B36 /* haku.mp3 */,
+				474AE8F61D03F2A600A34B36 /* punch.mp3 */,
+				47E388851D29069B00F10619 /* waku.png */,
+			);
+			name = photo;
+			sourceTree = "<group>";
+		};
 		47F065B51CDF01110017486E = {
 			isa = PBXGroup;
 			children = (
+				47E388871D2906A200F10619 /* photo */,
 				47F065C01CDF01110017486E /* yuu */,
 				47F065D51CDF01110017486E /* yuuTests */,
 				47F065E01CDF01110017486E /* yuuUITests */,
@@ -98,10 +265,15 @@
 			isa = PBXGroup;
 			children = (
 				47F065C11CDF01110017486E /* AppDelegate.swift */,
+				47D367F71D8E6368009299C7 /* FirstViewController.swift */,
 				47F065C31CDF01110017486E /* ViewController.swift */,
+				47661E311CF1964F0048AC68 /* FireViewController.swift */,
+				478E33E61D166B6900015F5B /* CocoaaViewController.swift */,
+				47D367F51D8E4181009299C7 /* SeteiViewController.swift */,
 				47F065C51CDF01110017486E /* Main.storyboard */,
-				47F065C81CDF01110017486E /* Assets.xcassets */,
 				47F065CA1CDF01110017486E /* LaunchScreen.storyboard */,
+				474AE9001D0415C000A34B36 /* アイコン */,
+				47F065C81CDF01110017486E /* Assets.xcassets */,
 				47F065CD1CDF01110017486E /* Info.plist */,
 			);
 			path = yuu;
@@ -232,9 +404,57 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47D367FE1D8E65E6009299C7 /* ranking.jpg in Resources */,
+				474AE9141D0415C000A34B36 /* yuuu-32.png in Resources */,
+				47D367F21D8E3AF0009299C7 /* back1.gif in Resources */,
+				4741939A1DA0F9900036DEF8 /* agai.gif in Resources */,
+				474AE8F51D03C40C00A34B36 /* mo.png in Resources */,
+				478E33DB1D163D6700015F5B /* tree.png in Resources */,
+				47E388841D28FA2900F10619 /* bbbb.png in Resources */,
+				47CAC5EA1E47142E0000D59E /* kin.png in Resources */,
+				478E33DF1D1642BF00015F5B /* modoru.gif in Resources */,
+				474AE8F71D03F2A600A34B36 /* punch.mp3 in Resources */,
+				474AE8FD1D040FCD00A34B36 /* haku.mp3 in Resources */,
+				47D367FC1D8E65E1009299C7 /* toro.jpg in Resources */,
+				474AE8FC1D040FCD00A34B36 /* haku2.mp3 in Resources */,
+				474AE9161D0415C000A34B36 /* yuuu-40@2x.png in Resources */,
+				474AE91C1D0415C000A34B36 /* yuuu-76.png in Resources */,
+				478E33E51D165F6500015F5B /* uiui.gif in Resources */,
+				474AE8F91D040C1D00A34B36 /* yama.png in Resources */,
+				474AE91A1D0415C000A34B36 /* yuuu-60@3x.png in Resources */,
+				474AE91B1D0415C000A34B36 /* yuuu-64.png in Resources */,
+				47CAC5E41E47140E0000D59E /* yama2.png in Resources */,
+				47CAC5F01E4714850000D59E /* hiru2.jpg in Resources */,
+				47D368021D8E819B009299C7 /* music2.mp3 in Resources */,
+				4741939C1DA0FA670036DEF8 /* again.gif in Resources */,
+				474AE9151D0415C000A34B36 /* yuuu-40.png in Resources */,
+				474AE91E1D0415C000A34B36 /* yuuu-83.5@2x.png in Resources */,
+				478E33D71D163BBD00015F5B /* bbb.png in Resources */,
+				47D368041D8E82D1009299C7 /* music3.mp3 in Resources */,
+				47CAC5E81E4714200000D59E /* tuki.png in Resources */,
+				47CAC5EC1E4714390000D59E /* yozora2.jpg in Resources */,
 				47F065CC1CDF01110017486E /* LaunchScreen.storyboard in Resources */,
+				474AE9191D0415C000A34B36 /* yuuu-60@2x.png in Resources */,
+				474AE9181D0415C000A34B36 /* yuuu-512.png in Resources */,
+				478E33E31D165CB900015F5B /* uiouio.gif in Resources */,
 				47F065C91CDF01110017486E /* Assets.xcassets in Resources */,
+				47D367FA1D8E65D6009299C7 /* wakuwaku.png in Resources */,
+				474AE9121D0415C000A34B36 /* yuuu-29@2x.png in Resources */,
+				4769DFBA1CF175EC005BB9D4 /* btt07.gif in Resources */,
+				474AE9111D0415C000A34B36 /* yuuu-256.png in Resources */,
+				47CAC5F41E4714D50000D59E /* yoru.png in Resources */,
+				474AE9101D0415C000A34B36 /* yuuu-128.png in Resources */,
+				474AE9171D0415C000A34B36 /* yuuu-40@3x.png in Resources */,
+				47D367F41D8E3D07009299C7 /* back2.gif in Resources */,
+				478E33D31D1637AA00015F5B /* btt.png in Resources */,
+				47D368001D8E7B0E009299C7 /* music.mp3 in Resources */,
+				478E33DD1D163EAB00015F5B /* ri.jpg in Resources */,
+				47E388861D29069B00F10619 /* waku.png in Resources */,
+				474AE91D1D0415C000A34B36 /* yuuu-76@2x.png in Resources */,
+				47CAC5E61E4714150000D59E /* yama5.png in Resources */,
+				474AE9131D0415C000A34B36 /* yuuu-29@3x.png in Resources */,
 				47F065C71CDF01110017486E /* Main.storyboard in Resources */,
+				47CAC5EE1E4714430000D59E /* taiyou1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +481,10 @@
 			files = (
 				47F065C41CDF01110017486E /* ViewController.swift in Sources */,
 				47F065C21CDF01110017486E /* AppDelegate.swift in Sources */,
+				47D367F61D8E4181009299C7 /* SeteiViewController.swift in Sources */,
+				47D367F81D8E6368009299C7 /* FirstViewController.swift in Sources */,
+				478E33E71D166B6900015F5B /* CocoaaViewController.swift in Sources */,
+				47661E321CF1964F0048AC68 /* FireViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,10 +624,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = yuu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yutokusuda.yuu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -411,10 +640,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = yuu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yutokusuda.yuu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -485,6 +719,7 @@
 				47F065E81CDF01110017486E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		47F065E91CDF01110017486E /* Build configuration list for PBXNativeTarget "yuuTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +728,7 @@
 				47F065EB1CDF01110017486E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		47F065EC1CDF01110017486E /* Build configuration list for PBXNativeTarget "yuuUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +737,7 @@
 				47F065EE1CDF01110017486E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
